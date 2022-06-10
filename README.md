@@ -1,2 +1,2 @@
 # paulcsik.github.io
-website
+This is a sample website!
